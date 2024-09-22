@@ -1,0 +1,170 @@
+﻿  Ball.cpp
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(39,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(39,26): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(39,26): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(39,26): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(39,26): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(41,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(41,26): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(41,26): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(41,26): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Ball.cpp(41,26): warning C4244:         ]
+  Collision.cpp
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+  Entity.cpp
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(19,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(19,17): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(19,17): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(19,17): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(19,17): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(20,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(20,17): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(20,17): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(20,17): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(20,17): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(30,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(46,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(59,15): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.cpp(60,15): warning C4244: '=': conversion from 'float' to 'unsigned short', possible loss of data
+  Paddle.cpp
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(5,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(10,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(10,19): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(10,19): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(10,19): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(10,19): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(15,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(15,21): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(15,21): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(15,21): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Paddle.cpp(15,21): warning C4244:         ]
+  main.cpp
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,71): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=unsigned int
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         and
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\Entity.h(15,52): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(14,50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(14,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(20,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(20,41): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(25,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(25,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(28,66): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(28,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,56): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,56): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,56): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,56): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,44): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,44): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,44): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(38,44): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,56): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,56): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,56): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,56): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,44): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,44): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,44): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(41,44): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(68,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(68,32): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(68,32): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(68,32): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(68,32): warning C4244:         ]
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(72,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(72,32): warning C4244:         with
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(72,32): warning C4244:         [
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(72,32): warning C4244:             T=float
+C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\Salazar Engine\src\main.cpp(72,32): warning C4244:         ]
+  Generating Code...
+  Salazar Engine.vcxproj -> C:\Users\Griffin G. Salazar\source\repos\Salazar Engine SFML\x64\Debug\Salazar Engine.exe
